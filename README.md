@@ -5,13 +5,13 @@ I'm using TensorFlow-GPU version 1.9.0
 
 This readme describes every step required to get going with fire detection:
 
-1. [Installing Anaconda CUDA, and cuDNN](https://github.com/RaamPujangga/Fire-Detection/blob/master/README.md#steps)
-2. [Setting up the directory](https://github.com/RaamPujangga/Fire-Detection/blob/master/README.md#2-set-up-directory)
-3. [Download pictures / dataset](https://github.com/RaamPujangga/Fire-Detection/blob/master/README.md#3-download-dataset)
-4. [Preparing Telegram Bot](https://github.com/RaamPujangga/Fire-Detection/blob/master/README.md#4-prepare-telegram-bot)
-5. [Setting Up TensorFlow and Preparing Necessary Packages](https://github.com/RaamPujangga/Fire-Detection/blob/master/README.md#5-set-up-tensorflow--prepare-necessary-packages)
-6. [Training](https://github.com/RaamPujangga/Fire-Detection/blob/master/README.md#6-training)
-7. [Testing](https://github.com/RaamPujangga/Fire-Detection/blob/master/README.md#7-testing)
+1. [Installing Anaconda CUDA, and cuDNN](https://github.com/RaamPujangga/Fire-Detection-CNN/tree/master#1-install-anaconda-cuda-and-cudnn)
+2. [Setting up the directory](https://github.com/RaamPujangga/Fire-Detection-CNN/blob/master/README.md#2-set-up-directory)
+3. [Download pictures / dataset](https://github.com/RaamPujangga/Fire-Detection-CNN/blob/master/README.md#3-download-dataset)
+4. [Preparing Telegram Bot](https://github.com/RaamPujangga/Fire-Detection-CNN/blob/master/README.md#4-prepare-telegram-bot)
+5. [Setting Up TensorFlow and Preparing Necessary Packages](https://github.com/RaamPujangga/Fire-Detection-CNN/blob/master/README.md#5-set-up-tensorflow--prepare-necessary-packages)
+6. [Training](https://github.com/RaamPujangga/Fire-Detection-CNN/blob/master/README.md#6-training)
+7. [Testing](https://github.com/RaamPujangga/Fire-Detection-CNN/blob/master/README.md#7-testing)
 
 Next time, I will make this tutorial on YouTube
 
